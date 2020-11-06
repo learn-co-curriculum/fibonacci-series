@@ -15,6 +15,8 @@ Input: 10
 Output: 55
 ```
 
+Note that we are using zero-indexing for the series.
+
 Use the language of your choosing. We've included starter files for some languages where you can pseudocode, explain your solution and code.
 
 ## Before you start coding:
