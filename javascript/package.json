@@ -1,8 +1,8 @@
 {
-  "name": "algo",
+  "name": "fibonacci",
   "version": "1.0.0",
-  "description": "reverse a string",
-  "main": "algo.js",
+  "description": "find nth value in fibo sequence",
+  "main": "fibonacci.js",
   "dependencies": {
     "jest": "^26.6.3"
   },
