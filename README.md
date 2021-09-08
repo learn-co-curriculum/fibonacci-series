@@ -1,10 +1,16 @@
 # Day 3: Fibonacci Series
 
-**Fork and then clone me!**
+## Learning Goals
 
-Find the nth element in the Fibonacci series. The Fibonacci sequence starts with a 0 followed by a 1. After that, every value is the sum of the two values preceding it. Here are the first seven values as an example: 0, 1, 1, 2, 3, 5, 8.
+- Practice algorithmic problem solving
 
-```
+## Instructions
+
+Find the nth element in the Fibonacci series. The Fibonacci sequence starts with
+a 0 followed by a 1. After that, every value is the sum of the two values
+preceding it. Here are the first seven values as an example: 0, 1, 1, 2, 3, 5, 8.
+
+```txt
 Input: 0
 Output: 0
 
@@ -17,9 +23,10 @@ Output: 55
 
 Note that we are using zero-indexing for the series.
 
-Use the language of your choosing. We've included starter files for some languages where you can pseudocode, explain your solution and code.
+Use the language of your choosing. We've included starter files for some
+languages where you can pseudocode, explain your solution and code.
 
-## Before you start coding:
+## Before you start coding
 
 1. Rewrite the problem in your own words
 2. Validate that you understand the problem
