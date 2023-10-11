@@ -5,7 +5,7 @@ function fibonacci(num) {
 
   let lastTwo = [0, 1];
 
-  for (let i = 0; i < num - 1; ++i) {
+  for (let i = 0; i < num - 1; i++) {
     const sum = lastTwo[0] + lastTwo[1];
     lastTwo = [lastTwo[1], sum];
   }
